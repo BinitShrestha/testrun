@@ -1,8 +1,9 @@
 <HTML>
    <HEAD>
-      <TITLE>Hello</TITLE>
+      <TITLE></TITLE>
    </HEAD>
    <BODY>
-      <P>Hello
+      <h1>Hello</h1>
+      <h2>Hi</h2>
    </BODY>
 </HTML>
